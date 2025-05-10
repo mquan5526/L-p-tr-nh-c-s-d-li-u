@@ -1,9 +1,9 @@
 # Quản lý Trường học (C# .NET)
 
-## 📌 Mô tả
+## Mô tả
 Đây là một ứng dụng quản lý trường học được phát triển bằng ngôn ngữ C# trên nền tảng .NET. Ứng dụng hỗ trợ các chức năng như quản lý sinh viên, giảng viên, môn học, lớp học và điểm số.
 
-## 🛠️ Công nghệ sử dụng
+## Công nghệ sử dụng
 - **Ngôn ngữ lập trình:** C#
 - **Nền tảng:** .NET Framework
 - **Kiến trúc:** Phân lớp với các Layer:
@@ -11,9 +11,9 @@
   - `BusinessLayer`: Xử lý nghiệp vụ
   - `DataLayer`: Truy cập dữ liệu
   - `TransferObject`: Đối tượng truyền dữ liệu
-- **Cơ sở dữ liệu:** SQL Server (giả định)
+- Cơ sở dữ liệu: SQL Server
 
-## 🚀 Hướng dẫn chạy project
+## Hướng dẫn chạy project
 
 ### 1. Clone repository
 ```bash
@@ -34,14 +34,10 @@ git clone https://github.com/mquan5526/L-p-tr-nh-c-s-d-li-u.git
 * Build solution trong Visual Studio (`Ctrl + Shift + B`).
 * Chạy project từ `PresentationLayer`.
 
-## ✅ Các chức năng chính
+## Các chức năng chính
 
 * [x] Quản lý sinh viên
 * [x] Quản lý giảng viên
 * [x] Quản lý cán bộ, công nhân viên
 * [x] Quản lý học phí
-```
 
----
-
-```
