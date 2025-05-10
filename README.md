@@ -1,7 +1,7 @@
 # Quản lý Trường học (C# .NET)
 
 ## Mô tả
-Đây là một ứng dụng quản lý trường học được phát triển bằng ngôn ngữ C# trên nền tảng .NET. Ứng dụng hỗ trợ các chức năng như quản lý sinh viên, giảng viên, môn học, lớp học và điểm số.
+Đây là một ứng dụng quản lý trường học được phát triển bằng ngôn ngữ C# trên nền tảng .NET. Ứng dụng hỗ trợ các chức năng như quản lý sinh viên, giảng viên, cán bộ - công nhân viên.
 
 ## Công nghệ sử dụng
 - **Ngôn ngữ lập trình:** C#
@@ -26,8 +26,8 @@ git clone https://github.com/mquan5526/L-p-tr-nh-c-s-d-li-u.git
 
 ### 3. Cấu hình cơ sở dữ liệu
 
-* Cập nhật chuỗi kết nối trong file cấu hình (`App.config` hoặc `Web.config`) để kết nối với cơ sở dữ liệu SQL Server của bạn.
-* Tạo và khởi tạo cơ sở dữ liệu nếu cần (bằng script hoặc migration, tùy thiết lập).
+* Cập nhật chuỗi kết nối trong file cấu hình (`App.config`) để kết nối với cơ sở dữ liệu SQL Server của bạn.
+* Tạo và khởi tạo cơ sở dữ liệu nếu cần.
 
 ### 4. Chạy ứng dụng
 
